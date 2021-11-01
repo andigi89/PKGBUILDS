@@ -19,11 +19,11 @@
 #    <placeholder>   A pre-defined name that identifies the place in the Welcome app where this string is used.
 #    "string"        The translated string for the Welcome app.
 
-# English:
+# Tagalo:
 
 ### First some useful definitions:
 
-_tr_lang=en            # required helper variable for _tr_add2
+_tr_lang=tl            # required helper variable for _tr_add2
 
 # Help with some special characters (HTML). Yad has problems without them:
 _exclamation='&#33;'   # '!'
